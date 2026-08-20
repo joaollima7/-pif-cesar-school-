@@ -5,7 +5,7 @@ int Main{} /* Trocou os parenteses por chaves*/ /*main escrito em maiusculo*/
 printf( Existem %d semanas no ano.,52); /* Falta de aspas duplas*/
 cout << endl; /* Não existe em C */
 system("PAUSE");
-return O; /*Foi digitado a letra o em maiusculo ao inves do número 0*/
+return O;
 )
 
 /* Código certo*/
