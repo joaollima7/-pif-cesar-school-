@@ -18,3 +18,9 @@ return 0;
 
 // Comportamento do return 0: //
 // retorna o valor 0 pra indicar que o programa finalizou //
+
+// Saida exata:                     //
+//             "Primeiro programa"  //
+// \n para pular uma linha //
+// \t para o recuo do espaço antes do texto // 
+// \" para as aspas duplas ficarem no texto literal //
