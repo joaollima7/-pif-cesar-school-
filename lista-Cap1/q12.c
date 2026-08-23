@@ -1,1 +1,8 @@
-
+a) t a; [correto] [declaracao de tipo valido]
+b) float b; [correto] [declaracao de tipo valido]
+c) double float c; [incorreto] [sintaxe invalida]
+d) unsigned char d; [correto] [declaracao valida]
+e) unsigned e; [correto] [sintaxe valida]
+f) long float f; [incorreto] [tipo invalido]
+g) long g; [correto] [declaracao de tipo valido]
+h) long double h; [correto] [declaracao valida]
