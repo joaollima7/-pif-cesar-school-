@@ -1,7 +1,11 @@
+Questão 07.
+
+Resposta:
+
 a) printf("\n\tBom dia! Shirley.");
 
 
-   Bom dia! Shirley.
+    Bom dia! Shirley.
 b) printf("Você já tomou café? \n");
 
 Você já tomou café? 
