@@ -1,1 +1,3 @@
-
+a) O valor exibido vai ser 2
+b) A variavel "valor inteiro" foi declarada como int e o numero é um ponto flutuante
+c) Pra manter so trocar o int por double ou float, e para arredondar usar o round()
