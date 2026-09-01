@@ -1,1 +1,12 @@
+a) A biblioteca <conio.h> não faz parte do padrão ANSI C. É uma biblioteca antiga e exclusiva do MS-DOS/Windows,com isso o codigo não compila em sistemas como Linux e macOS por falta de portabilidade
+b) getchar e putchar
+c) #include <stdio.h>
 
+int main() {
+    char c;
+    
+    scanf(" %c", &c); 
+    
+    printf("Caractere lido: %c\n", c);
+    return 0;
+}
