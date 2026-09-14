@@ -2,4 +2,5 @@ a) O operador prefixado (++n) incrementa antes da atribuuição, o operador pós
 saida impressa: Trecho A: Trecho A: n = 6, x = 6  
 Trecho B: Trecho B: m = 6, y = 5  
 
-b) 
+b) Na linguagem C o compilador não é obrigado a ler da esquerda para direita, podendo avaliar primeiro n++ depois n+1 e por ultimo n 
+Outra coisa que pode ser analisa é a ausencia de ponto de sequencia, tenta ler o valor de uma variavel e depois modificar dentro do mesmo passo de execução, isso faz com que a linguagem não garanta  qual valor está salvo em cada momento 
