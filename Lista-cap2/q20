@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+#include <stdlib.h>
 
 int main() {
     float lado_a, lado_b, hipotenusa;
@@ -14,6 +15,7 @@ int main() {
     
     printf("\nResultado: \n");
     printf("Comprimento da hipotenusa: %.2f\n", hipotenusa);
-    
+
+    system("PAUSE");
     return 0;
 }
