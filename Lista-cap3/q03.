@@ -1,0 +1,5 @@
+a) O a começa em 36 e é dividido por 2 a cada volta (a /= 2) até deixar de ser maior que zero. (Sequência: 18  9  4  2  1)
+
+b) O que faz: Fica a ler teclas uma a uma até que digites a letra maiúscula 'X'.   A operação ch + 1: Pega no caractere digitado e imprime o seguinte na tabela ASCII (por exemplo, se digitares 'A', imprime 'B').   Por que os parênteses em (ch = getch()) são obrigatórios: Porque o operador de desigualdade (!=) tem prioridade maior que o de atribuição (=). Sem os parênteses, o computador tentaria comparar primeiro o ch com o resultado de getch() != 'X' (dando verdadeiro/falso) antes de guardar a letra na variável.
+
+c)Podes usar a instrução break; dentro de um condicional (if) para forçar a saída do laço quando uma determinada situação acontecer.
